@@ -3,29 +3,5 @@ font-size: 12px;
 
 float: left;
 width: calc(50% - 10px);
-
-
-
-header {
-    border-bottom:  solid 1px;  /* 枠線指定 */
-    padding:  10px;  /* 余白指定 */
-  background:yellowgreen
-}
-.bg_test {
-    text-align:  center;        /* 文字中央揃え */
-    color:  #fff;               /* 文字色指定 */
-    background-color:  #000;    /* 背景色指定 */
-}
-footer {
-    border-top: solid 1px;      /* 枠線指定 */
-    padding:  10px;             /* 余白指定 */
-  background:yellowgreen
 }
 
-main {
-    padding:  20px;             /* 余白指定 */
-    height:  300px;             /* 高さ指定 */
-}
-
-
-}
